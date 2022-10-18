@@ -1,0 +1,8 @@
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\bin\Debug\Pr_2.exe.config
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\bin\Debug\Pr_2.exe
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\bin\Debug\Pr_2.pdb
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\obj\Debug\Pr_2.csproj.AssemblyReference.cache
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\obj\Debug\Pr_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\obj\Debug\Pr_2.csproj.CoreCompileInputs.cache
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\obj\Debug\Pr_2.exe
+C:\Users\nata\Desktop\домашка на 122\Onj\Pr_2\Pr_2\obj\Debug\Pr_2.pdb
